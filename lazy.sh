@@ -13,7 +13,7 @@ hh () {
 }
 
 hint () {
-    curl -s lalyo.sh/hist
+    curl -s lalyo.sh/hist | tail -1
 }
 
 alias r="source $BASH_SOURCE"
