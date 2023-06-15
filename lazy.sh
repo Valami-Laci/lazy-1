@@ -18,3 +18,5 @@ hint () {
 }
 
 alias r="source $BASH_SOURCE"
+
+#here was Laci
